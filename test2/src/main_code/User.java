@@ -5,7 +5,7 @@ public class User {
 	String gender;
 	int birth;
 	
-	public User()
+	public User()	//user
 	{
 		this("","",0);
 	}
